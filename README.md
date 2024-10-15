@@ -1,1 +1,1 @@
-curriculum-vitae-eight-delta.vercel.app
+https://curriculum-vitae-eight-delta.vercel.app/
